@@ -1,0 +1,18 @@
+[INFO] Tentando novamente em 5s
+[INFO] Tentando novamente em 10s
+[ERROR] Erro de servidor persistente para TJMG.
+[2025-10-16 10:53:15.578596] Erro 502 na página 52 (2025-01-09)
+[2025-10-16 10:55:57.700208] Exceção: HTTPSConnectionPool(host='comunicaapi.pje.jus.br', port=443): Read timed out. (read timeout=30) (página 1, dia 2025-01-13)
+[2025-10-16 11:02:38.460855] Exceção: HTTPSConnectionPool(host='comunicaapi.pje.jus.br', port=443): Read timed out. (read timeout=30) (página 1, dia 2025-01-21)
+[2025-10-16 11:04:08.931799] Exceção: HTTPSConnectionPool(host='comunicaapi.pje.jus.br', port=443): Read timed out. (read timeout=30) (página 1, dia 2025-01-21)
+[2025-10-16 11:10:50.625259] Exceção: HTTPSConnectionPool(host='comunicaapi.pje.jus.br', port=443): Read timed out. (read timeout=30) (página 1, dia 2025-01-24)
+[2025-10-16 11:12:44.433110] Exceção: HTTPSConnectionPool(host='comunicaapi.pje.jus.br', port=443): Read timed out. (read timeout=30) (página 1, dia 2025-01-27)
+[2025-10-16 11:14:41.993314] Exceção: HTTPSConnectionPool(host='comunicaapi.pje.jus.br', port=443): Read timed out. (read timeout=30) (página 1, dia 2025-01-28)
+[2025-10-16 11:16:13.358763] Exceção: HTTPSConnectionPool(host='comunicaapi.pje.jus.br', port=443): Read timed out. (read timeout=30) (página 2, dia 2025-01-28)
+[2025-10-16 11:19:03.124075] Exceção: HTTPSConnectionPool(host='comunicaapi.pje.jus.br', port=443): Read timed out. (read timeout=30) (página 1, dia 2025-01-29)
+[2025-10-16 11:22:33.059154] Erro 500 na página 1 (2025-01-30)
+[2025-10-16 11:24:15.759851] Exceção: HTTPSConnectionPool(host='comunicaapi.pje.jus.br', port=443): Read timed out. (read timeout=30) (página 2, dia 2025-01-30)
+[2025-10-16 11:35:17.730729] Erro 500 na página 557 (2025-01-30)
+[2025-10-16 11:40:21.836835] Erro 500 na página 91 (2025-01-31)
+[2025-10-16 11:44:45.539107] Erro 502 na página 292 (2025-01-31)
+[2025-10-16 11:50:28.287376] Erro 500 na página 548 (2025-01-31)
